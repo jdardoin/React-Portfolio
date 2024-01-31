@@ -1,0 +1,22 @@
+.aboutcontainer {
+display: flex;
+flex-wrap: wrap;
+padding: 2rem;
+gap: 2rem;
+justify-content: center;
+
+
+}
+img{
+    width: 100%;
+}
+.imgwarper{
+    max-width: 50rem;
+    min-width: 30rem;
+}
+
+.aboutcontent{
+max-width: 50rem;
+min-width: 30rem;
+
+}
