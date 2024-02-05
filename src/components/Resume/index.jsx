@@ -1,19 +1,30 @@
 import React from 'react'
+import './resume.css'
 
 const Resume = () => {
   return ( 
-  <div>
+<div>
     <h2>My Resume</h2>
+    
+    <div className="skillscontainer">
+
     <p>
-        Here is a brief overview of my skills and experiences:
+        A brief overview of my skills:
         <ul>
-            <li>Skill 1</li>
-            <li>Skill 2</li>
-            <li>Experience 1</li>
-            <li>Experience 2</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MongoDB</li>
+            <li>MySQL</li>
         </ul>
     </p>
-    <a href="/path/to/your/resume.pdf" download className="btn btn-primary">Download My Resume</a>
+
+     </div>
+
+    <a href="https://docs.google.com/document/d/1mjmrrt5JQ9HhM3g8oGNN0GmoUEPjP4pNamqyUaSqu8o/edit?usp=sharing" download className="btn btn-primary">Download My Resume</a>
 </div>
   )
 }

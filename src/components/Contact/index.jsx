@@ -7,9 +7,12 @@ const Contact = () => {
 
     Contact Information
     
+    <p>Feel free to contact me for any websites needs by clicking on the email link below.</p>
+
     <p>
-    <a href="mailto:jdardoin@gmail.com">Click to send an email </a>
+    <a href="mailto:jdardoin@gmail.com">Contact via email </a>
     </p>
+    
 
   
   </div>

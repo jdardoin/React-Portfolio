@@ -1,3 +1,10 @@
 .contactnfo {
     font-size: xx-large;
+    font-family: cursive;
+   
+}
+
+.contactnfo p a {
+    color: whitesmoke;
+    font-family: cursive;
 }
