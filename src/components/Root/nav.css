@@ -1,19 +1,17 @@
 .nav {
-    background-color: #EDE0D4;
+    background-color: #b56010;
     margin-top: 0;
     padding: 2rem;
     display: flex;
     gap: 2rem;
     justify-content: center;
-
-    
-
 }
 
 .nav li {
 list-style: none;
 font-size: 2em;
-color: turquoise;
-
 }
 
+.nav li a {
+   color: rgba(0, 0, 0, 0.856)
+}

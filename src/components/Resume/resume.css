@@ -11,3 +11,9 @@ h2 {
     font-weight: bolder;
     
 }
+
+a {
+    color: rgb(6, 127, 183);
+    font-size: larger;
+    font-family: cursive;
+}
