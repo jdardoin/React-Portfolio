@@ -7,7 +7,7 @@ const Root = () => {
     <>
         <ul className='nav'>
             <li>
-                <Link to='/'>home</Link>
+                <Link to='/'>Home</Link>
             </li>
             <li>
                 <Link to='/projects'>Projects</Link>

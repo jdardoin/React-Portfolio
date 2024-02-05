@@ -1,8 +1,18 @@
 import React from 'react'
+import './contact.css'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+  <div className='contactnfo'>
+
+    Contact Information
+    
+    <p>
+    <a href="mailto:jdardoin@gmail.com">Click to send an email </a>
+    </p>
+
+  
+  </div>
   )
 }
 

@@ -1,10 +1,10 @@
 .nav {
-    background-color: red;
+    background-color: #EDE0D4;
     margin-top: 0;
     padding: 2rem;
     display: flex;
     gap: 2rem;
-    justify-content: flex-start;
+    justify-content: center;
 
     
 
@@ -16,3 +16,4 @@ font-size: 2em;
 color: turquoise;
 
 }
+
