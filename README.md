@@ -1,3 +1,27 @@
+# Portfolio
+
+## Description
+
+Portfolio that display my current projects and skill set
+
+## Table of Contents
+
+- [Technologies Used](#Technologies-Used)
+- [License](#License)
+- [Deployed application](#Deployed-application)
+
+### Technologies Used
+
+HTML, CSS, JavaScrip, React, and JSX was used to create this application.
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Deployed link
+
+https://subtle-paprenjak-fdeee3.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
