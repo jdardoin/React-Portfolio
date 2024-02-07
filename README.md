@@ -23,7 +23,7 @@ HTML, CSS, JavaScrip, React, and JSX was used to create this application.
 
 https://subtle-paprenjak-fdeee3.netlify.app/
 
-###Screenshot 
+### Screenshot 
 
 ![Screenshot 2024-02-05 at 6 11 52 PM](https://github.com/jdardoin/React-Portfolio/assets/141884948/4ea0f808-249d-4461-811e-a81c46794278)
 
